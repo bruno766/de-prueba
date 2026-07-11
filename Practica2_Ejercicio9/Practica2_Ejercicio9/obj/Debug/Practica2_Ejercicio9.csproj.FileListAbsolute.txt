@@ -1,0 +1,6 @@
+C:\Users\Diego\Documents\SharpDevelop Projects\Practica2_Ejercicio9\Practica2_Ejercicio9\obj\Debug\Practica2_Ejercicio9.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\SharpDevelop Projects\Practica2_Ejercicio9\Practica2_Ejercicio9\bin\Debug\Practica2_Ejercicio9.exe.config
+C:\Users\Diego\Documents\SharpDevelop Projects\Practica2_Ejercicio9\Practica2_Ejercicio9\bin\Debug\Practica2_Ejercicio9.exe
+C:\Users\Diego\Documents\SharpDevelop Projects\Practica2_Ejercicio9\Practica2_Ejercicio9\bin\Debug\Practica2_Ejercicio9.pdb
+C:\Users\Diego\Documents\SharpDevelop Projects\Practica2_Ejercicio9\Practica2_Ejercicio9\obj\Debug\Practica2_Ejercicio9.exe
+C:\Users\Diego\Documents\SharpDevelop Projects\Practica2_Ejercicio9\Practica2_Ejercicio9\obj\Debug\Practica2_Ejercicio9.pdb
